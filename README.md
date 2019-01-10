@@ -11,4 +11,4 @@
 ![image3](https://github.com/MaoZiYang/Spring-Demo/tree/master/src/image/test3.png)  
 
 4.test4的testMain类(Spring初始化,销毁对象)效果图:
-![image4](https://github.com/MaoZiYang/Spring-Demo/tree/master/src/image/test4.png)
+![image5](https://github.com/MaoZiYang/Spring-Demo/tree/master/src/image/test4.png)
