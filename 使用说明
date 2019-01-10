@@ -1,0 +1,9 @@
+一.版本说明:Spring-4.3.18
+二.使用步骤:
+1.将项目download到本地的idea项目存放位置
+
+2.用idea将项目打开
+
+3.依次调试运行不同的test文件里的testMain.java类,看到出现与效果图一致则表示测试Spring框架成功!
+
+更多详细教程:https://blog.csdn.net/maoziyang1996/article/details/86235865
