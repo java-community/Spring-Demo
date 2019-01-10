@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--我们可以将这个bean理解为我们的javaBean，其中两个property标签即表示给user类中的username和email属性赋值！-->
+    <bean id="user" class="com.test2.user" scope="singleton">
+        <property name="username" value="毛梓仰"/>
+        <property name="email" value="1144035882@qq.com"/>
+    </bean>
+</beans>
